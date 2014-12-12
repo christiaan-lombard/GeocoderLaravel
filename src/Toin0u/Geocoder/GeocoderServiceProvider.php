@@ -36,7 +36,7 @@ class GeocoderServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->package('toin0u/geocoder-laravel');
+        //$this->package('toin0u/geocoder-laravel');
     }
 
     /**
